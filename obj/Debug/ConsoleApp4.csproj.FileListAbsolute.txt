@@ -1,0 +1,8 @@
+E:\yomna\c#\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+E:\yomna\c#\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+E:\yomna\c#\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+E:\yomna\c#\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+E:\yomna\c#\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+E:\yomna\c#\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\yomna\c#\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+E:\yomna\c#\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
